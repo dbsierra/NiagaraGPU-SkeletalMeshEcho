@@ -1,5 +1,5 @@
 # NiagaraGPU-SkeletalMeshEcho
-A GPU enabled technique for visualizing a live running history of skeletal mesh animation using Niagara, static mesh instances, simulation stages and 2D render targets in Unreal Engine 5.1.1
+A GPU enabled technique for visualizing a live running history of skeletal mesh animation using Niagara, static mesh instances, simulation stages and 2D render targets. Tested in Unreal 5.1, 5.2 and 5.3.
 
 ![](https://github.com/dbsierra/NiagaraGPU-SkeletalMeshEcho/blob/main/Media/gif1.gif)
 
